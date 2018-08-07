@@ -33,7 +33,7 @@ class Config(object):
 
     CARRIER     = '51089, 1-0'
 
-    SYSTEM_NAME = 'IOSIPAD'
+    SYSTEM_NAME = 'GUMINHACKBOT'
 
     SYSTEM_VER  = '10.12.0'
 
